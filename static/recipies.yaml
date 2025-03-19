@@ -1,0 +1,129 @@
+recipes:
+  - name: "Tacos"
+    ingredients:
+      - "Tortillas"
+      - "Kidney beans"
+      - "Black beans"
+      - "Onion"
+      - "Garlic"
+      - "Tomato"
+      - "Paprika"
+      - "Cheese"
+      - "Cream"
+      - "Cutlet"
+      - "Kale"
+      - "Avocado"
+      - "Chili"
+
+  - name: "Curry"
+    ingredients:
+      - "Rice"
+      - "Onion"
+      - "Garlic"
+      - "Tomato"
+      - "Paprika"
+      - "Paneer"
+      - "Chickpeas"
+      - "Cream"
+      - "Cutlet"
+      - "Spinach"
+      - "Curry paste"
+      - "Ginger"
+      - "Lime"
+      - "Chili"
+      - "Chicken"
+
+  - name: "Pad Thai"
+    ingredients:
+      - "Rice noodles"
+      - "Tamarind Sauce"
+      - "Peanut butter"
+      - "Sugar"
+      - "Rice vinegar"
+      - "Fish sauce"
+      - "Onion"
+      - "Garlic"
+      - "Carrot"
+      - "Paprika"
+      - "Tofu or shrimp"
+      - "Coriander"
+      - "Lime"
+      - "Bean sprouts"
+      - "Soy sauce"
+      - "Egg"
+
+  - name: "Lasagna"
+    ingredients:
+      - "Minced meat"
+      - "Tomato sauce"
+      - "Sliced tomatoes"
+      - "Onion"
+      - "Garlic"
+      - "Oregano"
+      - "Grated cheese"
+      - "Lasagna sheets"
+      - "Cream"
+      - "Carrot"
+      - "Mushrooms"
+      - "Milk"
+      - "Flour"
+      - "Butter"
+      - "Nutmeg"
+
+  - name: 'Bacalao'
+    ingredients:
+      - 'Cod'
+      - 'Potatoes'
+      - 'Onion'
+      - 'Garlic'
+      - 'Tomato paste'
+      - 'Milk'
+      - 'Olives'
+      - 'Olive oil'
+      - 'Parsley'
+      - 'Chili'
+      - 'Lemon'
+
+  - name: 'Bergen Fish Soup'
+    ingredients:
+      - 'Cod'
+      - 'Shrimp'
+      - 'Onion'
+      - 'Celery'
+      - 'Dill'
+      - 'Carrot'
+      - 'Leek'
+      - 'Butter'
+      - 'Milk'
+      - 'Cream'
+      - 'Lime'
+      - 'Garlic'
+      - 'Bread'
+
+  - name: 'Pasta Salad'
+    ingredients:
+      - 'Farfalle'
+      - 'Spinach'
+      - 'Mushrooms'
+      - "Onions"
+      - 'Parmesan'
+      - 'Olive oil'
+      - 'Balsamic vinegar'
+      - 'Milk'
+
+  - name: 'Seco de Pollo'
+    ingredients:
+      - 'Chicken'
+      - 'Rice'
+      - 'Onion'
+      - 'Garlic'
+      - 'Tomato'
+      - 'Paprika'
+      - 'Green paprika'
+      - 'Cumin'
+      - 'Coriander'
+      - 'Beer'
+      - 'Peas'
+      - 'Lime'
+      - 'Maduro'
+
